@@ -15,6 +15,6 @@ Here are some ideas to get you started
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,vim,git,c++,vim,github,linux" />
+    <img src="https://skillicons.dev/icons?i=c,c++,linux,git,github,vim" />
   </a>
 </p>
