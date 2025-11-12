@@ -9,4 +9,4 @@
 
 Here are some ideas to get you started
 -->  
-Currently a student at the Depoartments of Informatics and Telecommunications | National and Kapodistrian University of Athens
+🎓 Currently a student at the Depoartments of Informatics and Telecommunications | National and Kapodistrian University of Athens
