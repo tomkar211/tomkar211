@@ -1,8 +1,8 @@
-<center>
+<div align="center">
 
 ## Hi there, I'm Thomas
 
-</center>
+</div>
 
 <!--
 **tomkar211/tomkar211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
